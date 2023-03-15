@@ -1,6 +1,4 @@
 package com.fabiopereira.admin.catalogo.domain;
 
-public class Category {
-
-    public String id;
+public abstract class ValueObject {
 }
