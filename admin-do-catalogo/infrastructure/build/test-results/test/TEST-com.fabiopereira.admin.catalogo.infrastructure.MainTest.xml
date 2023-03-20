@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fabiopereira.admin.catalogo.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-20T14:53:10" hostname="pop-os" time="0.017">
+  <properties/>
+  <testcase name="testMain()" classname="com.fabiopereira.admin.catalogo.infrastructure.MainTest" time="0.017"/>
+  <system-out><![CDATA[Hello world!
+com.fabiopereira.admin.catalogo.domain.Category@e9d9f410
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
